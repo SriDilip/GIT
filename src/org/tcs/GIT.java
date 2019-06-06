@@ -24,7 +24,11 @@ public class GIT {
 			s.add(5, 10);
 			s.add(10,10,10);
 			System.out.println("sri");
-			System.out.println("RithanDilip");
+
+			
+
+			
+
 		}
 
 	
